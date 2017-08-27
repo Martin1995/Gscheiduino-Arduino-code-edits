@@ -1,3 +1,4 @@
+//source: http://fluuux.de/2012/09/arduino-vu-meter-audiolightshow-vu-meter/
 //Audiokabel mit 3 Adern, weiß=A0, rot=A1, Kupfer=GNR
 //5 LEDs für den linken Kanal an den digitalen Pins 4 - 8
 //5 LEDs für den rechten Kanal an den digitalen Pins 9 - 13
