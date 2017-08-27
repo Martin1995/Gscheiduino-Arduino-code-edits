@@ -40,7 +40,7 @@ void loop()
   int left      = analogRead(leftChannelPin);
   int right     = analogRead(rightChannelPin);
  
-  Serial.println("LEFT: " + String(left) + " RIGHT: " + String(right));
+  Serial.println("LEFT: " + String(left) + " RIGHT: " + String(right) + "DIVIDER: " String(Divider));
  
   left  = left  / Divider;
   right = right / Divider;
